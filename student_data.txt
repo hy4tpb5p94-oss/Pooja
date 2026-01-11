@@ -1,0 +1,3 @@
+2|Riya|BSc CS|3|85
+3|Karan|BSc CS|3|69
+4|Pooja|MBA Finance|3|98
